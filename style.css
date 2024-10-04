@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border:10px solid purple;
+    height: 90vh;
+    background-image: url('download.jpeg');
+    
+    
+}
+div.container{
+    box-shadow: 0px 0px 10px;
+    padding: 40px;
+    font-size: 88px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+    border: 10px solid purple;
+    max-width: 700px;
+    margin: auto;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('download\ \(2\).jpeg');
+    
+
+
+    
+}
